@@ -119,15 +119,3 @@ export default {
   }
 };
 </script>
-<style scoped>
-input[type="number"]::-webkit-inner-spin-button,
-input[type="number"]::-webkit-outer-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-
-input[type="number"] {
-  -moz-appearance: textfield;
-  padding: 0px;
-}
-</style>
